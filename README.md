@@ -5,7 +5,7 @@
 <! --
 **Quer testar Aplicação !? ✨ Beleza ✨ Então segue os passinhos do `README` Fechou ! ⚡😄⚡.
 
-#DB SQL-Server. -- -- Em constrição DB ainda não esta na pasta. -- --
+#DB SQL-Server. -- -- Anexado a pasta ai ja sabe, anexa no seu SQLServer hehe...  😉 -- --
 
 Criar o DB como HotelDB.
 Attach o backup que esta solto dentro do projeto.🤔 Muito importante ajustar a `<connectionStrings>` 
@@ -16,6 +16,8 @@ De forma geral para o SQL Server podemos usar também a seguinte string de conex
 "server=Nome_Do_Computador\SQLEXPRESS; Database=xxxxxx;Integrated Security=SSPI;"
 
 Nota: Você pode consultar diversas strings de conexão no site : http://www.connectionstrings.com/
+
+MAS CASO VC FAÇA O DOWNLOAD EM ZIP, BASTA executar a SLN e seguir os passos do banco e já era. 😉
 
 ###*
 
